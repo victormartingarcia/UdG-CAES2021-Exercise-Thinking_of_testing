@@ -1,1 +1,3 @@
-# UdG-CAES2021-Exercise-Thinking_of_testing
+# Lab exercise 2
+
+More info on Moodle
